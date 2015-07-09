@@ -1,3 +1,6 @@
 [submodule "color"]
 	path = color
 	url = https://github.com/g0v/color.git
+[submodule "wounded_search"]
+	path = wounded_search
+	url = https://github.com/koshuang/wounded_search.git
